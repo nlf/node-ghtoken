@@ -1,11 +1,11 @@
 {
   "name": "ghtoken",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a simple github token generation utility",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nathan-lafreniere/node-ghtoken.git"
+    "url": "git://github.com/nlf/node-ghtoken.git"
   },
   "keywords": [
     "github",
